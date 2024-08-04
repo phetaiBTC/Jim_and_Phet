@@ -3,6 +3,7 @@ back-end
     install
         cd  back-end
         npm install -g yarn
+        yarn install
         yarn --version
 
     RUN

@@ -1,3 +1,6 @@
+back : https://github.com/phetaiBTC/JimAndPhet-back-end.git
+front : https://github.com/phetaiBTC/JimAndPhet-front-end.git
+
 back-end
 
     install
